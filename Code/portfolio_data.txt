@@ -1,0 +1,17 @@
+==========================================
+       STOCK TRADING PLATFORM DATA
+==========================================
+Username: 1
+Balance: 10812.46
+
+PORTFOLIO:
+TCS : 2 shares
+WIPRO : 5 shares
+ITC : 3 shares
+
+TRANSACTIONS:
+BUY    TCS      Qty: 5     Price: ₹3800.00    Total: ₹19000.00   Date: 17-08-2026 08:15:43
+BUY    ITC      Qty: 5     Price: ₹487.61     Total: ₹2438.05    Date: 17-08-2026 08:20:47
+SELL   TCS      Qty: 3     Price: ₹3703.09    Total: ₹11109.27   Date: 17-08-2026 08:22:08
+BUY    WIPRO    Qty: 5     Price: ₹575.64     Total: ₹2878.20    Date: 17-08-2026 08:23:04
+SELL   ITC      Qty: 2     Price: ₹509.72     Total: ₹1019.44    Date: 17-08-2026 08:25:17
