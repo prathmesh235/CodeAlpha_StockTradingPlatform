@@ -31,7 +31,7 @@ A console-based stock trading simulation developed using Java and Object-Oriente
 ```text
 CodeAlpha_StockTradingPlatform
 │
-├── src
+├── Code
 │   ├── Main.java
 │   ├── Stock.java
 │   ├── User.java
