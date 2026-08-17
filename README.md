@@ -626,7 +626,7 @@ The CodeAlpha PDF specifically lists market display, buy/sell operations, portfo
 
 # 👨‍💻 Author
 
-**Prathmesh**
+**Prathmesh Panmand**
 
 Java Programming Internship
 CodeAlpha
